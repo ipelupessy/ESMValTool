@@ -1,1 +1,1 @@
-"""Cmorizer modules for Python."""
+"""Cmorizer modules for observational data."""
